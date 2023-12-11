@@ -47,6 +47,13 @@ This interactive tool addresses these challenges by providing:
 
 •	Microsoft access with some VBA codes.
 
+
+## Access Control Credentials:
+
+* Username- **ABCD**/ **abcd**
+* Password- **ABCD@1234** /**abcd@1234**
+
+
 ## Project Roadmap:
 
 •	Version 1: User can access existing data and search based on compartment name, location, and equipment details.
